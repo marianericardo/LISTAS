@@ -1,0 +1,4 @@
+ let char ;
+ console.log = ("Digite um caractere");
+ console.log(`"${caractere}"`);
+

@@ -1,0 +1,4 @@
+int numero = prompt ("Digite um número inteiro: "));
+
+console.log(`Valor da variável: ${numero}`);
+

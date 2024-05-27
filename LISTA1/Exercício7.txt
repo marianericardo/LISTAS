@@ -1,0 +1,20 @@
+// Função para ler três variáveis e imprimir de três maneiras diferente
+{
+let char = 'A';
+let int = 10;
+let float = 3.14;
+
+// Impressão separada por espaços
+    console.log(char, int, float);
+
+    // Impressão com tabulação horizontal
+    console.log(char + "\t" + int + "\t" + float);
+
+    // Impressão em cada linha
+    console.log(char);
+    console.log(int);
+    console.log(float);
+}
+
+
+

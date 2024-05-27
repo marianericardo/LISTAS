@@ -1,0 +1,3 @@
+const numerointeiro= 10;
+
+console.log(numerointeiro);

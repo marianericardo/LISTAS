@@ -1,0 +1,7 @@
+// Recebendo os valores do dia, mês e ano
+Let dia = ("Digite o dia: "));
+Let mes = ("Digite o mês: "));
+Let ano = ("Digite o ano: "));
+
+// Imprimindo os valores separados por uma barra
+console.log(`${dia}/${mes}/${ano}`);
