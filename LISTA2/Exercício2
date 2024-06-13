@@ -1,1 +1,4 @@
-
+var valorPor15Minutos = 2.00;
+var tempoDeUso = 35;
+var valorAPagar = calcularValorPagamento(valorPor15Minutos, tempoDeUso);
+console.log("Valor a pagar R$: " + valorAPagar);
