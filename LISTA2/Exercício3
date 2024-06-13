@@ -1,1 +1,6 @@
-
+var produto = "Escova Dental";
+var precoUnitario = 4.00;
+var quantidade = 3;
+var precoPromocional = calcularPrecoPromocional(precoUnitario, quantidade);
+console.log(produto + " - Promocao: Leve 3 por apenas R$ 10,00");
+console.log("Os 3 produtos custa apenas R$ " + precoPromocional);
