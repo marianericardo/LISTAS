@@ -1,0 +1,5 @@
+//Buguei, acho que é desse jeito
+
+var velocidadem/s= 10000;
+velocidadekm/h= velocidadem/s*3.16;
+consolo.log (velocidadekm/h);
