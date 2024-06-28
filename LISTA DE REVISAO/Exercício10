@@ -1,1 +1,16 @@
+// Esse tive que pesquisar 
+//O cara que vi ensinou assim
 
+// decimal para binário 
+//Exercício 10
+
+var num=20;
+var numbin= num.toString(2);
+console.log (numbin);
+
+//binário para decimal
+//só para lembrar 
+
+var numero = 110;
+var numDec = parseInt (numero,2);
+consolo.log (numDec);
