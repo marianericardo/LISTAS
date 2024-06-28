@@ -1,6 +1,10 @@
-var numero1 = 15
-var numero2 = 3
+var numero1 = 15;
+var numero2 = 3;
 
 quociente= numero1/numero2;
 console.log (quociente);
 var quociente;
+
+resto= numero1%numero2;
+console.log (resto);
+var resto;
