@@ -1,0 +1,11 @@
+var prova1= 40;
+var prova2= 45;
+primeirotri= prova1+prova2;
+console.log (primeirotri);
+
+var prova3= 35
+var prova4= 50
+segundotri= prova3+prova4;
+console.log (segundotri);
+
+nota semestral= (primeirotri+segundotri)/2
