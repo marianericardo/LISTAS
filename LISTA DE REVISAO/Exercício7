@@ -1,3 +1,10 @@
 
-var idade =("digite sua idade em dias");
-console.log (idade);
+var idadeemdias= 10000;
+console.log (idadeemdias);
+
+idadeemanos= idadeemdias/365;
+console.log (idadeemanos);
+
+idadeemmeses= idadeemdias/12;
+console.log (idadeemmeses);
+
