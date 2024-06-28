@@ -8,4 +8,5 @@ var prova4= 50
 segundotri= prova3+prova4;
 console.log (segundotri);
 
-nota semestral= (primeirotri+segundotri)/2
+notasemestral= (primeirotri+segundotri)/2
+console.log (notasemestral);
