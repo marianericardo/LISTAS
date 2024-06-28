@@ -1,1 +1,3 @@
 
+var idade =("digite sua idade em dias");
+console.log (idade);
