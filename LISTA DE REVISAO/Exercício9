@@ -3,5 +3,5 @@ var pi= 3.14;
 var raio= 2;
 var altura= 5;
 
-volumedalata= pi* (raio*2)*altura;
+volumedalata= pi* (raio*raio)*altura;
 console.log (volumedalata);
