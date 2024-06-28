@@ -1,9 +1,11 @@
+var forma = 'retângulo'
+var altura = 5;
+var base= 7;
 
- var forma = 'retângulo'
- var altura = 5;
- var comprimento = 7;
+area = altura * base;
+console.log(area)
+var area;
 
- area = altura * comprimento;
- console.log(area)
- var area;
-
+perimetro = 2*(base+altura);
+console.log(perimetro)
+var perimetro;
