@@ -1,1 +1,11 @@
+var forma = ' quadrado'
+var altura = 5;
+var base= 7;
 
+area = 
+console.log(area)
+var area;
+
+perimetro = 2*(base+altura);
+console.log(perimetro)
+var perimetro;
