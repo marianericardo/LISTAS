@@ -1,1 +1,4 @@
-
+var numerointeiro= 15
+var sucessor= 16
+console.log (numerointeiro)
+console.log (sucessor)
