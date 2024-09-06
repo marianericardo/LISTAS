@@ -1,1 +1,16 @@
+var segundos= 100000;
+console.log (segundos);
 
+idadeemanos= idadeemdias/365;
+console.log (idadeemanos);
+
+idadeemmeses= idadeemdias/12;
+console.log (idadeemmeses);
+var idadeemdias= 10000;
+console.log (idadeemdias);
+
+idadeemanos= idadeemdias/365;
+console.log (idadeemanos);
+
+idadeemmeses= idadeemdias/12;
+console.log (idadeemmeses);
