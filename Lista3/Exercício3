@@ -1,9 +1,9 @@
-// Apenas mostre em dias
+// Apenas em dias print
 var idadeemdias= 10000;
 console.log (idadeemdias);
 
-idadeemanos= idadeemdias/365;
+var idadeemanos=27.397260274;
 
-idadeemmeses= idadeemdias/12;
+var idadeemmeses= 833.3333333333;
 
 
