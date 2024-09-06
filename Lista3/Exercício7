@@ -1,1 +1,6 @@
-
+valorFabrica= 100000;
+console.log(valorFabrica);
+custoDistribuidor = valorFabrica * 0.28;
+impostos = valorFabrica * 0.45;
+valorFinal = valorFabrica + custoDistribuidor + impostos;
+console.log(valorFinal);
