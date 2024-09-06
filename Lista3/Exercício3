@@ -1,1 +1,9 @@
+// Apenas mostre em dias
+var idadeemdias= 10000;
+console.log (idadeemdias);
+
+idadeemanos= idadeemdias/365;
+
+idadeemmeses= idadeemdias/12;
+
 
