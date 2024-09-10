@@ -1,4 +1,4 @@
-var segundos= 100000;
+let segundos= 100000;
 console.log (segundos);
 
 horas= segundos/3.600;
