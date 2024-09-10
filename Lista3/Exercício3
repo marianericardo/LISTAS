@@ -1,9 +1,9 @@
 // Apenas em dias print
-var idadeemdias= 10000;
+let idadeemdias= 10000;
 console.log (idadeemdias);
 
-var idadeemanos=27.397260274;
+let idadeemanos=27.397260274;
 
-var idadeemmeses= 833.3333333333;
+let idadeemmeses= 833.3333333333;
 
 
