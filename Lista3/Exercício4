@@ -1,4 +1,4 @@
-var idadeemdias= 10000;
+let idadeemdias= 10000;
 console.log (idadeemdias);
 
 idadeemanos= idadeemdias/365;
